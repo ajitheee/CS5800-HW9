@@ -1,0 +1,49 @@
+Creating new CharacterProperty: Arial-12-Red
+Creating new CharacterProperty: Calibri-14-Blue
+Creating new CharacterProperty: Verdana-16-Black
+Creating new CharacterProperty: Arial-14-Black
+
+DOCUMENT CONTENT
+================
+H -> Font=Arial, Size=12, Color=Red
+e -> Font=Arial, Size=12, Color=Red
+l -> Font=Arial, Size=12, Color=Red
+l -> Font=Arial, Size=12, Color=Red
+o -> Font=Calibri, Size=14, Color=Blue
+W -> Font=Calibri, Size=14, Color=Blue
+o -> Font=Calibri, Size=14, Color=Blue
+r -> Font=Calibri, Size=14, Color=Blue
+l -> Font=Verdana, Size=16, Color=Black
+d -> Font=Verdana, Size=16, Color=Black
+C -> Font=Verdana, Size=16, Color=Black
+S -> Font=Verdana, Size=16, Color=Black
+5 -> Font=Arial, Size=14, Color=Black
+8 -> Font=Arial, Size=14, Color=Black
+0 -> Font=Arial, Size=14, Color=Black
+0 -> Font=Arial, Size=14, Color=Black
+
+Total shared CharacterProperty objects: 4
+
+Document saved to: HelloWorldCS5800.txt
+
+LOADING DOCUMENT FROM FILE
+Document loaded from: HelloWorldCS5800.txt
+
+DOCUMENT CONTENT
+================
+H -> Font=Arial, Size=12, Color=Red
+e -> Font=Arial, Size=12, Color=Red
+l -> Font=Arial, Size=12, Color=Red
+l -> Font=Arial, Size=12, Color=Red
+o -> Font=Calibri, Size=14, Color=Blue
+W -> Font=Calibri, Size=14, Color=Blue
+o -> Font=Calibri, Size=14, Color=Blue
+r -> Font=Calibri, Size=14, Color=Blue
+l -> Font=Verdana, Size=16, Color=Black
+d -> Font=Verdana, Size=16, Color=Black
+C -> Font=Verdana, Size=16, Color=Black
+S -> Font=Verdana, Size=16, Color=Black
+5 -> Font=Arial, Size=14, Color=Black
+8 -> Font=Arial, Size=14, Color=Black
+0 -> Font=Arial, Size=14, Color=Black
+0 -> Font=Arial, Size=14, Color=Black

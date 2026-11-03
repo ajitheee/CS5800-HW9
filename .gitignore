@@ -1,0 +1,16 @@
+# Java build output
+*.class
+/out/
+/target/
+
+# IDE settings
+/.idea/
+*.iml
+/.vscode/
+
+# Driver-generated document (a sample is kept under examples)
+/HelloWorldCS5800.txt
+
+# Operating system files
+.DS_Store
+Thumbs.db
